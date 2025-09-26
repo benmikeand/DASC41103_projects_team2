@@ -21,7 +21,9 @@ Our group is committed to professionalism, accountability, and clear communicati
 │   └── project_X/                 # All content for project X
 │       ├── code/                    # Code for the project
 │       ├── data/                    # Datasets used
+│       ├── info/                    # Project info
 │       └── results/                 # Outputs, visualizations, and analysis results
+├── TeamCharter_Group2.pdf         # Team charter document
 └── README.md                      # Overview and team guidelines
 ```
 ---
