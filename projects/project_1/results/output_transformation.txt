@@ -1,0 +1,6 @@
+Target variable transformation:
+Original target classes were ">50K" and "<=50K".
+We binarized the variable as follows:
+    >50K  →  1
+    <=50K →  0
+Predictions in the CSV file are given in this binary format (0/1).
